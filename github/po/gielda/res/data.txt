@@ -1,0 +1,7 @@
+# Example data file for ReadData class
+# Number of investors (R for RANDOM, S for SMA)
+R R R S S
+# List of shares with their last prices
+AAPL:100 GOOGL:200
+# Initial cash and stocks for each share
+1000 AAPL:10 GOOGL:5
