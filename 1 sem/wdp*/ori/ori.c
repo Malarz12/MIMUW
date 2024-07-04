@@ -170,7 +170,7 @@ int main() {
   for (int i = 0; i < number_of_sheets; i++) {
     sheet sheet1;
     point point1, point2;
-    double x, y, promien;
+    double x, y, radius;
     int numer;
     char type;
 
@@ -194,7 +194,7 @@ int main() {
       point1 = create_point(x, y);
 
       sheet1.bottom_left = point1;
-      sheet1.circle_diameter = promien;
+      sheet1.circle_diameter = radius;
 
       sheets[i] = sheet1;
     } else if (type == 'Z') // Fetching information about curved line bending the given sheet.
