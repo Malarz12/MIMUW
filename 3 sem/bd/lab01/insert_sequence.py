@@ -41,6 +41,8 @@ with open('publikacje.txt', 'r', encoding='utf-8') as file:
                 elif line[i] == "'":
                     title += line[i]
                     title += line[i]
+                elif line[i] == '&':
+                    title += "'|| CHR(38) ||'"
                 else:
                     title += line[i]
 
