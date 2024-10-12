@@ -4,8 +4,7 @@
 using namespace std;
 
 vector<int> main_v;
-constexpr int MAX_SIZE = 1000;
-vector<vector<vector<int>>> memo(MAX_SIZE, vector<vector<int>>(MAX_SIZE, vector<int>(2, -1)));
+vector<vector<vector<int>>> memo;
 
 pair<int, int> rec(int start, int end, int start_end) {
     if (main_v.size() == 1) {
@@ -58,7 +57,7 @@ int main() {
     int n;
     cin >> n;
     main_v.resize(n);
-
+    memo.resize(n + 1, vector<vector<int>>(n + 1, vector<int>(2, -1)));
     for (int i = 0; i < n; i++) {
         cin >> main_v[i];
     }
