@@ -1,5 +1,3 @@
-package lab03;
-
 import java.util.ArrayList;
 import java.util.Vector;
 import java.util.concurrent.BrokenBarrierException;
