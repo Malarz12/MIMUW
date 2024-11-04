@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##a# Ćwiczenie 1",
+        "Ten program wypisuje \"A kuku\"."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"A kuku\")"
+      ],
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": [
+            "A kuku\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Ćwiczenie 1",
+        "Napisz program wypisujący dwukrotnie \"Ala ma kota\" w osobnych wierszach."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "for i in range(2):",
+        " print(\"Ala ma kota\")",
+        " print(\"Ala ma kota\")"
+      ],
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": [
+            "Ala ma kota\n",
+            "Ala ma kota\n"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {},
+  "nbformat": 4,
+  "nbformat_minor": 2
+}
