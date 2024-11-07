@@ -2,19 +2,23 @@
 #include <vector>
 using namespace std;
 
+const int MOD = 1000000000;
+
 struct Node {
     int left, right;
-    int val; // 0 - mixed, 1 - all black, 2 - all white
-    int lazy; // -1 no lazy, 1 black, 2 white
+    int val; // 0 - mieszane, 1 - czarny, 2 - biały
+    int lazy; // -1 brak aktualizacji, 1 czarny, 2 biały
+    int white_count; // Number of white cells in this segment
     Node* left_node;
     Node* right_node;
 
     Node(int left, int right, int val, Node* left_node = nullptr, Node* right_node = nullptr)
-        : left(left), right(right), val(val), lazy(-1), left_node(left_node), right_node(right_node) {}
+        : left(left), right(right), val(val), lazy(-1), white_count((val == 2) ? (right - left + 1) : 0),
+          left_node(left_node), right_node(right_node) {}
 
     static Node* build_segment_tree(int left, int right) {
         if (left == right) {
-            return new Node(left, right, 1);
+            return new Node(left, right, 1);  // Initialize each cell as black
         }
         int mid = (left + right) / 2;
         return new Node(left, right, 1, build_segment_tree(left, mid), build_segment_tree(mid + 1, right));
@@ -24,6 +28,7 @@ struct Node {
         if (lazy == -1) return;
 
         val = lazy;
+        white_count = (val == 2) ? (right - left + 1) : 0;
 
         if (left != right) {
             if (left_node) left_node->lazy = lazy;
@@ -34,12 +39,12 @@ struct Node {
 
     int modify(int l, int r, int color) {
         propagate();
-        if (right < l || left > r) return result();
+        if (right < l || left > r) return white_count;
 
         if (l <= left && right <= r) {
             lazy = color;
             propagate();
-            return result();
+            return white_count;
         }
 
         int left_result = (left_node ? left_node->modify(l, r, color) : 0);
@@ -50,14 +55,8 @@ struct Node {
         } else {
             val = 0;
         }
-        return left_result + right_result;
-    }
-
-    int result() {
-        propagate();
-        if (val == 1) return 0;
-        if (val == 2) return right - left + 1;
-        return (left_node ? left_node->result() : 0) + (right_node ? right_node->result() : 0);
+        white_count = left_result + right_result;
+        return white_count;
     }
 };
 
