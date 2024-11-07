@@ -6,8 +6,8 @@ const int MOD = 1000000000;
 
 struct Node {
     int left, right;
-    int val; // 0 - mieszane, 1 - czarny, 2 - biały
-    int lazy; // -1 brak aktualizacji, 1 czarny, 2 biały
+    int val; // 0 - mixed, 1 - black, 2 - white
+    int lazy; // -1 don't update, 1 black, 2 white
     int white_count; // Number of white cells in this segment
     Node* left_node;
     Node* right_node;
