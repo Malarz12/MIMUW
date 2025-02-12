@@ -1,0 +1,1842 @@
+[
+    {
+        "Interacting DrugBank ID":"DB00408",
+        "Interacting Drug Name":"Loxapine",
+        "Interaction Description":"The therapeutic efficacy of Omalizumab can be decreased when used in combination with Loxapine."
+    },
+    {
+        "Interacting DrugBank ID":"DB00255",
+        "Interacting Drug Name":"Diethylstilbestrol",
+        "Interaction Description":"Diethylstilbestrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00269",
+        "Interacting Drug Name":"Chlorotrianisene",
+        "Interaction Description":"Chlorotrianisene may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00286",
+        "Interacting Drug Name":"Conjugated estrogens",
+        "Interaction Description":"Conjugated estrogens may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00655",
+        "Interacting Drug Name":"Estrone",
+        "Interaction Description":"Estrone may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00783",
+        "Interacting Drug Name":"Estradiol",
+        "Interaction Description":"Estradiol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00890",
+        "Interacting Drug Name":"Dienestrol",
+        "Interaction Description":"Dienestrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00977",
+        "Interacting Drug Name":"Ethinylestradiol",
+        "Interaction Description":"Ethinylestradiol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB01357",
+        "Interacting Drug Name":"Mestranol",
+        "Interaction Description":"Mestranol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04573",
+        "Interacting Drug Name":"Estriol",
+        "Interaction Description":"Estriol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04574",
+        "Interacting Drug Name":"Estrone sulfate",
+        "Interaction Description":"Estrone sulfate may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04575",
+        "Interacting Drug Name":"Quinestrol",
+        "Interaction Description":"Quinestrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB07931",
+        "Interacting Drug Name":"Hexestrol",
+        "Interaction Description":"Hexestrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09070",
+        "Interacting Drug Name":"Tibolone",
+        "Interaction Description":"Tibolone may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09317",
+        "Interacting Drug Name":"Synthetic Conjugated Estrogens, A",
+        "Interaction Description":"Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09318",
+        "Interacting Drug Name":"Synthetic Conjugated Estrogens, B",
+        "Interaction Description":"Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09369",
+        "Interacting Drug Name":"Polyestradiol phosphate",
+        "Interaction Description":"Polyestradiol phosphate may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09381",
+        "Interacting Drug Name":"Esterified estrogens",
+        "Interaction Description":"Esterified estrogens may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11478",
+        "Interacting Drug Name":"Zeranol",
+        "Interaction Description":"Zeranol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11674",
+        "Interacting Drug Name":"Equol",
+        "Interaction Description":"Equol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12487",
+        "Interacting Drug Name":"Promestriene",
+        "Interaction Description":"Promestriene may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13143",
+        "Interacting Drug Name":"Methallenestril",
+        "Interaction Description":"Methallenestril may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13386",
+        "Interacting Drug Name":"Epimestrol",
+        "Interaction Description":"Epimestrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13418",
+        "Interacting Drug Name":"Moxestrol",
+        "Interaction Description":"Moxestrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13952",
+        "Interacting Drug Name":"Estradiol acetate",
+        "Interaction Description":"Estradiol acetate may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13953",
+        "Interacting Drug Name":"Estradiol benzoate",
+        "Interaction Description":"Estradiol benzoate may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13954",
+        "Interacting Drug Name":"Estradiol cypionate",
+        "Interaction Description":"Estradiol cypionate may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13956",
+        "Interacting Drug Name":"Estradiol valerate",
+        "Interaction Description":"Estradiol valerate may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15334",
+        "Interacting Drug Name":"Biochanin A",
+        "Interaction Description":"Biochanin A may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15335",
+        "Interacting Drug Name":"Formononetin",
+        "Interaction Description":"Formononetin may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12235",
+        "Interacting Drug Name":"Estetrol",
+        "Interaction Description":"Estetrol may increase the thrombogenic activities of Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00002",
+        "Interacting Drug Name":"Cetuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Cetuximab is combined with Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00028",
+        "Interacting Drug Name":"Human immunoglobulin G",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Human immunoglobulin G is combined with Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00051",
+        "Interacting Drug Name":"Adalimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Adalimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00054",
+        "Interacting Drug Name":"Abciximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Abciximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00056",
+        "Interacting Drug Name":"Gemtuzumab ozogamicin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Gemtuzumab ozogamicin."
+    },
+    {
+        "Interacting DrugBank ID":"DB00057",
+        "Interacting Drug Name":"Indium In-111 satumomab pendetide",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Indium In-111 satumomab pendetide."
+    },
+    {
+        "Interacting DrugBank ID":"DB00065",
+        "Interacting Drug Name":"Infliximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Infliximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00072",
+        "Interacting Drug Name":"Trastuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Trastuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00073",
+        "Interacting Drug Name":"Rituximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Rituximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00074",
+        "Interacting Drug Name":"Basiliximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Basiliximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00075",
+        "Interacting Drug Name":"Muromonab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Muromonab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00076",
+        "Interacting Drug Name":"Digoxin Immune Fab (Ovine)",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Digoxin Immune Fab (Ovine)."
+    },
+    {
+        "Interacting DrugBank ID":"DB00078",
+        "Interacting Drug Name":"Ibritumomab tiuxetan",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ibritumomab tiuxetan."
+    },
+    {
+        "Interacting DrugBank ID":"DB00081",
+        "Interacting Drug Name":"Tositumomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tositumomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00087",
+        "Interacting Drug Name":"Alemtuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Alemtuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00089",
+        "Interacting Drug Name":"Capromab pendetide",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Capromab pendetide."
+    },
+    {
+        "Interacting DrugBank ID":"DB00095",
+        "Interacting Drug Name":"Efalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Efalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00098",
+        "Interacting Drug Name":"Antithymocyte immunoglobulin (rabbit)",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Antithymocyte immunoglobulin (rabbit)."
+    },
+    {
+        "Interacting DrugBank ID":"DB00108",
+        "Interacting Drug Name":"Natalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Natalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00110",
+        "Interacting Drug Name":"Palivizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Palivizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00111",
+        "Interacting Drug Name":"Daclizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Daclizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00112",
+        "Interacting Drug Name":"Bevacizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bevacizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB00113",
+        "Interacting Drug Name":"Technetium Tc-99m arcitumomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Technetium Tc-99m arcitumomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB01257",
+        "Interacting Drug Name":"Eculizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Eculizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB01269",
+        "Interacting Drug Name":"Panitumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Panitumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB01270",
+        "Interacting Drug Name":"Ranibizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ranibizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04901",
+        "Interacting Drug Name":"Galiximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Galiximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04949",
+        "Interacting Drug Name":"Pexelizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pexelizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04956",
+        "Interacting Drug Name":"Afelimomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Afelimomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04958",
+        "Interacting Drug Name":"Epratuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Epratuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04962",
+        "Interacting Drug Name":"Bectumomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bectumomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04964",
+        "Interacting Drug Name":"Oregovomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Oregovomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB04988",
+        "Interacting Drug Name":"IGN311",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with IGN311."
+    },
+    {
+        "Interacting DrugBank ID":"DB05006",
+        "Interacting Drug Name":"Adecatumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Adecatumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05097",
+        "Interacting Drug Name":"Labetuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Labetuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05101",
+        "Interacting Drug Name":"Matuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Matuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05111",
+        "Interacting Drug Name":"Fontolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fontolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05136",
+        "Interacting Drug Name":"Bavituximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bavituximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05139",
+        "Interacting Drug Name":"CR002",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with CR002."
+    },
+    {
+        "Interacting DrugBank ID":"DB05209",
+        "Interacting Drug Name":"Rozrolimupab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Rozrolimupab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05304",
+        "Interacting Drug Name":"Girentuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Girentuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05336",
+        "Interacting Drug Name":"Obiltoxaximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Obiltoxaximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05405",
+        "Interacting Drug Name":"XTL-001",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with XTL-001."
+    },
+    {
+        "Interacting DrugBank ID":"DB05437",
+        "Interacting Drug Name":"NAV 1800",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with NAV 1800."
+    },
+    {
+        "Interacting DrugBank ID":"DB05459",
+        "Interacting Drug Name":"Briakinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Briakinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05496",
+        "Interacting Drug Name":"Otelixizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Otelixizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05545",
+        "Interacting Drug Name":"AMG 108",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with AMG 108."
+    },
+    {
+        "Interacting DrugBank ID":"DB05550",
+        "Interacting Drug Name":"Iratumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Iratumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05555",
+        "Interacting Drug Name":"Enokizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Enokizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05578",
+        "Interacting Drug Name":"Ramucirumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ramucirumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05595",
+        "Interacting Drug Name":"Farletuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Farletuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05656",
+        "Interacting Drug Name":"Veltuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Veltuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05679",
+        "Interacting Drug Name":"Ustekinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ustekinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05773",
+        "Interacting Drug Name":"Trastuzumab emtansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Trastuzumab emtansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB05793",
+        "Interacting Drug Name":"PRO-542",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with PRO-542."
+    },
+    {
+        "Interacting DrugBank ID":"DB05797",
+        "Interacting Drug Name":"TNX-901",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with TNX-901."
+    },
+    {
+        "Interacting DrugBank ID":"DB05889",
+        "Interacting Drug Name":"Inotuzumab ozogamicin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Inotuzumab ozogamicin."
+    },
+    {
+        "Interacting DrugBank ID":"DB05892",
+        "Interacting Drug Name":"RI 624",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with RI 624."
+    },
+    {
+        "Interacting DrugBank ID":"DB05915",
+        "Interacting Drug Name":"Stamulumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with MYO-029."
+    },
+    {
+        "Interacting DrugBank ID":"DB05916",
+        "Interacting Drug Name":"CT-011",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with CT-011."
+    },
+    {
+        "Interacting DrugBank ID":"DB05941",
+        "Interacting Drug Name":"Leronlimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Leronlimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05996",
+        "Interacting Drug Name":"Glembatumumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Glembatumumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB06043",
+        "Interacting Drug Name":"Olaratumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Olaratumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06049",
+        "Interacting Drug Name":"IPH 2101",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with IPH 2101."
+    },
+    {
+        "Interacting DrugBank ID":"DB06050",
+        "Interacting Drug Name":"TB-402",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with TB-402."
+    },
+    {
+        "Interacting DrugBank ID":"DB06081",
+        "Interacting Drug Name":"Caplacizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Caplacizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06101",
+        "Interacting Drug Name":"IMC-1C11",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with IMC-1C11."
+    },
+    {
+        "Interacting DrugBank ID":"DB06116",
+        "Interacting Drug Name":"Eldelumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Eldelumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06162",
+        "Interacting Drug Name":"Lumiliximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lumiliximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06168",
+        "Interacting Drug Name":"Canakinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Canakinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06186",
+        "Interacting Drug Name":"Ipilimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ipilimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06192",
+        "Interacting Drug Name":"Nimotuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Nimotuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06241",
+        "Interacting Drug Name":"Clenoliximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Clenoliximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06273",
+        "Interacting Drug Name":"Tocilizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tocilizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06304",
+        "Interacting Drug Name":"BIIB015",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with BIIB015."
+    },
+    {
+        "Interacting DrugBank ID":"DB06305",
+        "Interacting Drug Name":"Sonepcizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sonepcizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06310",
+        "Interacting Drug Name":"Motavizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Motavizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06317",
+        "Interacting Drug Name":"Elotuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Elotuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06318",
+        "Interacting Drug Name":"AVE9633",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with AVE9633."
+    },
+    {
+        "Interacting DrugBank ID":"DB06322",
+        "Interacting Drug Name":"Carotuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Carotuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06324",
+        "Interacting Drug Name":"XmAb 2513",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with XmAb 2513."
+    },
+    {
+        "Interacting DrugBank ID":"DB06342",
+        "Interacting Drug Name":"Coltuximab ravtansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Coltuximab ravtansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB06360",
+        "Interacting Drug Name":"Lucatumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lucatumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06366",
+        "Interacting Drug Name":"Pertuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pertuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06371",
+        "Interacting Drug Name":"Siplizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Siplizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06467",
+        "Interacting Drug Name":"Apolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Apolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06474",
+        "Interacting Drug Name":"Sibrotuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sibrotuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06550",
+        "Interacting Drug Name":"Bivatuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bivatuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06557",
+        "Interacting Drug Name":"Lerdelimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lerdelimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06599",
+        "Interacting Drug Name":"Lexatumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lexatumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06602",
+        "Interacting Drug Name":"Reslizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Reslizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06606",
+        "Interacting Drug Name":"Teplizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Teplizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06607",
+        "Interacting Drug Name":"Catumaxomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Catumaxomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06612",
+        "Interacting Drug Name":"Mepolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Mepolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06643",
+        "Interacting Drug Name":"Denosumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Denosumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06647",
+        "Interacting Drug Name":"Volociximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Volociximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06650",
+        "Interacting Drug Name":"Ofatumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ofatumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB06674",
+        "Interacting Drug Name":"Golimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Golimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB08870",
+        "Interacting Drug Name":"Brentuximab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Brentuximab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB08879",
+        "Interacting Drug Name":"Belimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Belimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB08902",
+        "Interacting Drug Name":"Raxibacumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Raxibacumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB08935",
+        "Interacting Drug Name":"Obinutuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Obinutuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09029",
+        "Interacting Drug Name":"Secukinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Secukinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09033",
+        "Interacting Drug Name":"Vedolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Vedolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09035",
+        "Interacting Drug Name":"Nivolumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Nivolumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09036",
+        "Interacting Drug Name":"Siltuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Siltuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09037",
+        "Interacting Drug Name":"Pembrolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pembrolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09045",
+        "Interacting Drug Name":"Dulaglutide",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dulaglutide."
+    },
+    {
+        "Interacting DrugBank ID":"DB09052",
+        "Interacting Drug Name":"Blinatumomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Blinatumomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09057",
+        "Interacting Drug Name":"Anthrax immune globulin human",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Anthrax immune globulin human."
+    },
+    {
+        "Interacting DrugBank ID":"DB09077",
+        "Interacting Drug Name":"Dinutuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dinutuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09105",
+        "Interacting Drug Name":"Asfotase alfa",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Asfotase alfa."
+    },
+    {
+        "Interacting DrugBank ID":"DB09264",
+        "Interacting Drug Name":"Idarucizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Idarucizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09302",
+        "Interacting Drug Name":"Alirocumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Alirocumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09303",
+        "Interacting Drug Name":"Evolocumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Evolocumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09312",
+        "Interacting Drug Name":"Antilymphocyte immunoglobulin (horse)",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Antilymphocyte immunoglobulin (horse)."
+    },
+    {
+        "Interacting DrugBank ID":"DB09331",
+        "Interacting Drug Name":"Daratumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Daratumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB09559",
+        "Interacting Drug Name":"Necitumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Necitumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11569",
+        "Interacting Drug Name":"Ixekizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ixekizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11580",
+        "Interacting Drug Name":"Ravulizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ravulizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11595",
+        "Interacting Drug Name":"Atezolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Atezolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11604",
+        "Interacting Drug Name":"Tetanus immune globulin, human",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tetanus immune globulin, human."
+    },
+    {
+        "Interacting DrugBank ID":"DB11608",
+        "Interacting Drug Name":"Eftrenonacog alfa",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Eftrenonacog alfa."
+    },
+    {
+        "Interacting DrugBank ID":"DB11621",
+        "Interacting Drug Name":"Human varicella-zoster immune globulin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Human varicella-zoster immune globulin."
+    },
+    {
+        "Interacting DrugBank ID":"DB11646",
+        "Interacting Drug Name":"Conatumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Conatumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11657",
+        "Interacting Drug Name":"Tabalumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tabalumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11680",
+        "Interacting Drug Name":"Ficlatuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ficlatuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11685",
+        "Interacting Drug Name":"Figitumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Figitumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11714",
+        "Interacting Drug Name":"Durvalumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Durvalumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11715",
+        "Interacting Drug Name":"Bapineuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bapineuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11731",
+        "Interacting Drug Name":"Depatuxizumab mafodotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Depatuxizumab mafodotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB11746",
+        "Interacting Drug Name":"Onartuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Onartuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11756",
+        "Interacting Drug Name":"Solanezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Solanezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11767",
+        "Interacting Drug Name":"Sarilumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sarilumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11771",
+        "Interacting Drug Name":"Tremelimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tremelimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11776",
+        "Interacting Drug Name":"Brodalumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Brodalumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11803",
+        "Interacting Drug Name":"Sirukumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sirukumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11826",
+        "Interacting Drug Name":"Lampalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lampalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11834",
+        "Interacting Drug Name":"Guselkumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Guselkumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11840",
+        "Interacting Drug Name":"Dalotuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dalotuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11849",
+        "Interacting Drug Name":"Emibetuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Emibetuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11850",
+        "Interacting Drug Name":"Ublituximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ublituximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11856",
+        "Interacting Drug Name":"Ligelizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ligelizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11857",
+        "Interacting Drug Name":"Seribantumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Seribantumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11862",
+        "Interacting Drug Name":"Landogrozumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Landogrozumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11866",
+        "Interacting Drug Name":"Romosozumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Romosozumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11884",
+        "Interacting Drug Name":"Vadastuximab talirine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Vadastuximab talirine."
+    },
+    {
+        "Interacting DrugBank ID":"DB11914",
+        "Interacting Drug Name":"Lebrikizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lebrikizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11930",
+        "Interacting Drug Name":"Varlilumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Varlilumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11945",
+        "Interacting Drug Name":"Avelumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Avelumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11959",
+        "Interacting Drug Name":"Crenezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Crenezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11972",
+        "Interacting Drug Name":"Rilotumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Rilotumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11976",
+        "Interacting Drug Name":"Anifrolumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Anifrolumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB11988",
+        "Interacting Drug Name":"Ocrelizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ocrelizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12023",
+        "Interacting Drug Name":"Benralizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Benralizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12034",
+        "Interacting Drug Name":"Gantenerumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Gantenerumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12053",
+        "Interacting Drug Name":"Visilizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Visilizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12077",
+        "Interacting Drug Name":"Urelumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Urelumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12089",
+        "Interacting Drug Name":"Lorvotuzumab mertansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lorvotuzumab mertansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB12090",
+        "Interacting Drug Name":"Patritumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Patritumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12102",
+        "Interacting Drug Name":"Fulranumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fulranumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12104",
+        "Interacting Drug Name":"Tarextumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tarextumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12118",
+        "Interacting Drug Name":"Sotatercept",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sotatercept."
+    },
+    {
+        "Interacting DrugBank ID":"DB12119",
+        "Interacting Drug Name":"Gevokizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Gevokizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12142",
+        "Interacting Drug Name":"Duligotuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Duligotuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12152",
+        "Interacting Drug Name":"Simtuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Simtuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12157",
+        "Interacting Drug Name":"Fasinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fasinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12159",
+        "Interacting Drug Name":"Dupilumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dupilumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12169",
+        "Interacting Drug Name":"Tralokinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tralokinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12189",
+        "Interacting Drug Name":"Etrolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Etrolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12202",
+        "Interacting Drug Name":"Zalutumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Zalutumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12205",
+        "Interacting Drug Name":"Ganitumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ganitumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12213",
+        "Interacting Drug Name":"Etaracizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Etaracizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12240",
+        "Interacting Drug Name":"Polatuzumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Polatuzumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB12246",
+        "Interacting Drug Name":"Inclacumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Inclacumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12250",
+        "Interacting Drug Name":"Cixutumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Cixutumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12261",
+        "Interacting Drug Name":"Ascrinvacumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ascrinvacumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12274",
+        "Interacting Drug Name":"Aducanumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Aducanumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12296",
+        "Interacting Drug Name":"GS-5745",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with GS-5745."
+    },
+    {
+        "Interacting DrugBank ID":"DB12317",
+        "Interacting Drug Name":"Vanucizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Vanucizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12331",
+        "Interacting Drug Name":"Labetuzumab govitecan",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Labetuzumab govitecan."
+    },
+    {
+        "Interacting DrugBank ID":"DB12335",
+        "Interacting Drug Name":"Tanezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tanezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12342",
+        "Interacting Drug Name":"Ensituximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ensituximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12344",
+        "Interacting Drug Name":"Fezakinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fezakinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12363",
+        "Interacting Drug Name":"Dusigitumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dusigitumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12396",
+        "Interacting Drug Name":"Fresolimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fresolimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12413",
+        "Interacting Drug Name":"Indusatumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Indusatumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB12456",
+        "Interacting Drug Name":"Bococizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bococizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12489",
+        "Interacting Drug Name":"Mirvetuximab soravtansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Mirvetuximab Soravtansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB12498",
+        "Interacting Drug Name":"Mogamulizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Mogamulizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12520",
+        "Interacting Drug Name":"Plozalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Plozalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12530",
+        "Interacting Drug Name":"Inebilizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Inebilizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12534",
+        "Interacting Drug Name":"Mavrilimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Mavrilimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12560",
+        "Interacting Drug Name":"Blosozumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Blosozumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12584",
+        "Interacting Drug Name":"Bimagrumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bimagrumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12589",
+        "Interacting Drug Name":"Dacetuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dacetuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12609",
+        "Interacting Drug Name":"Tovetumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tovetumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12683",
+        "Interacting Drug Name":"Lumretuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lumretuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12698",
+        "Interacting Drug Name":"Ibalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ibalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12701",
+        "Interacting Drug Name":"Intetumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Intetumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12718",
+        "Interacting Drug Name":"Carlumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Carlumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12734",
+        "Interacting Drug Name":"Demcizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Demcizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12773",
+        "Interacting Drug Name":"Sifalimumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sifalimumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12775",
+        "Interacting Drug Name":"Abituzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Abituzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12797",
+        "Interacting Drug Name":"Ecromeximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ecromeximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12807",
+        "Interacting Drug Name":"Naptumomab estafenatox",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Naptumomab estafenatox."
+    },
+    {
+        "Interacting DrugBank ID":"DB12815",
+        "Interacting Drug Name":"Crotedumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Crotedumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12820",
+        "Interacting Drug Name":"Concizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Concizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12826",
+        "Interacting Drug Name":"Depatuxizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Depatuxizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12844",
+        "Interacting Drug Name":"Rontalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Rontalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12845",
+        "Interacting Drug Name":"Amatuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Amatuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12849",
+        "Interacting Drug Name":"Clazakizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Clazakizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12891",
+        "Interacting Drug Name":"Ozanezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ozanezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12893",
+        "Interacting Drug Name":"Sacituzumab govitecan",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sacituzumab govitecan."
+    },
+    {
+        "Interacting DrugBank ID":"DB12917",
+        "Interacting Drug Name":"Bimekizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bimekizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12943",
+        "Interacting Drug Name":"Milatuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Milatuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB12976",
+        "Interacting Drug Name":"Robatumumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Robatumumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13017",
+        "Interacting Drug Name":"Rovalpituzumab tesirine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Rovalpituzumab tesirine."
+    },
+    {
+        "Interacting DrugBank ID":"DB13037",
+        "Interacting Drug Name":"Namilumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Namilumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13045",
+        "Interacting Drug Name":"Racotumomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Racotumomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13073",
+        "Interacting Drug Name":"Tregalizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tregalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13127",
+        "Interacting Drug Name":"Olokizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Olokizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13140",
+        "Interacting Drug Name":"Bezlotoxumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bezlotoxumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13375",
+        "Interacting Drug Name":"Edrecolomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Edrecolomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13535",
+        "Interacting Drug Name":"Nebacumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Nebacumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13886",
+        "Interacting Drug Name":"Human cytomegalovirus immune globulin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Human cytomegalovirus immune globulin."
+    },
+    {
+        "Interacting DrugBank ID":"DB13923",
+        "Interacting Drug Name":"Emicizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Emicizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13976",
+        "Interacting Drug Name":"Sulesomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sulesomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB13979",
+        "Interacting Drug Name":"Besilesomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Besilesomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14004",
+        "Interacting Drug Name":"Tildrakizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tildrakizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14012",
+        "Interacting Drug Name":"Burosumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Burosumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14039",
+        "Interacting Drug Name":"Erenumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Erenumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14040",
+        "Interacting Drug Name":"Eptinezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Eptinezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14041",
+        "Interacting Drug Name":"Fremanezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fremanezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14042",
+        "Interacting Drug Name":"Galcanezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Galcanezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14211",
+        "Interacting Drug Name":"Fanolesomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Fanolesomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14580",
+        "Interacting Drug Name":"Lecanemab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lecanemab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14597",
+        "Interacting Drug Name":"Lanadelumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lanadelumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14707",
+        "Interacting Drug Name":"Cemiplimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Cemiplimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14724",
+        "Interacting Drug Name":"Emapalumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Emapalumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14762",
+        "Interacting Drug Name":"Risankizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Risankizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14776",
+        "Interacting Drug Name":"Camrelizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Camrelizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14778",
+        "Interacting Drug Name":"Setrusumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Setrusumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14784",
+        "Interacting Drug Name":"Gancotamab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Gancotamab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14809",
+        "Interacting Drug Name":"Anetumab ravtansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Anetumab ravtansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB14811",
+        "Interacting Drug Name":"Isatuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Isatuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14824",
+        "Interacting Drug Name":"Icrucumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Icrucumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14843",
+        "Interacting Drug Name":"Codrituzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Codrituzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14864",
+        "Interacting Drug Name":"Brolucizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Brolucizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14871",
+        "Interacting Drug Name":"Xentuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Xentuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14877",
+        "Interacting Drug Name":"Lintuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lintuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14891",
+        "Interacting Drug Name":"Vobarilizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Vobarilizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14897",
+        "Interacting Drug Name":"Parsatuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Parsatuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14905",
+        "Interacting Drug Name":"Emactuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Emactuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14907",
+        "Interacting Drug Name":"Bevacizumab zirconium Zr-89",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bevacizumab zirconium Zr-89."
+    },
+    {
+        "Interacting DrugBank ID":"DB14908",
+        "Interacting Drug Name":"Refanezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Refanezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14919",
+        "Interacting Drug Name":"Rozanolixizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Rozanolixizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14947",
+        "Interacting Drug Name":"Bermekimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bermekimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14952",
+        "Interacting Drug Name":"Pamrevlumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pamrevlumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14959",
+        "Interacting Drug Name":"Opicinumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Opicinumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14962",
+        "Interacting Drug Name":"Trastuzumab deruxtecan",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Trastuzumab deruxtecan."
+    },
+    {
+        "Interacting DrugBank ID":"DB14967",
+        "Interacting Drug Name":"Margetuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Margetuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14988",
+        "Interacting Drug Name":"Dalantercept",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dalantercept."
+    },
+    {
+        "Interacting DrugBank ID":"DB14997",
+        "Interacting Drug Name":"Pateclizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pateclizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15014",
+        "Interacting Drug Name":"Gremubamab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Gremubamab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15022",
+        "Interacting Drug Name":"Apomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Apomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15044",
+        "Interacting Drug Name":"Tafasitamab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tafasitamab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15045",
+        "Interacting Drug Name":"Ipafricept",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ipafricept."
+    },
+    {
+        "Interacting DrugBank ID":"DB15076",
+        "Interacting Drug Name":"Abrilumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Abrilumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15089",
+        "Interacting Drug Name":"Frovocimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Frovocimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15090",
+        "Interacting Drug Name":"Tezepelumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tezepelumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15101",
+        "Interacting Drug Name":"Tigatuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tigatuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15104",
+        "Interacting Drug Name":"Telisotuzumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Telisotuzumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB15113",
+        "Interacting Drug Name":"Utomilumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Utomilumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15118",
+        "Interacting Drug Name":"Zolbetuximab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Zolbetuximab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15135",
+        "Interacting Drug Name":"Ponezumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ponezumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15160",
+        "Interacting Drug Name":"Asunercept",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Asunercept."
+    },
+    {
+        "Interacting DrugBank ID":"DB15172",
+        "Interacting Drug Name":"Suvratoxumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Suvratoxumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15225",
+        "Interacting Drug Name":"Mitazalimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Mitazalimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15252",
+        "Interacting Drug Name":"Nemolizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Nemolizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15253",
+        "Interacting Drug Name":"Bleselumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bleselumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15277",
+        "Interacting Drug Name":"Gedivumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Gedivumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15336",
+        "Interacting Drug Name":"Valanafusp alfa",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Valanafusp alfa."
+    },
+    {
+        "Interacting DrugBank ID":"DB15349",
+        "Interacting Drug Name":"Sofituzumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sofituzumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB15363",
+        "Interacting Drug Name":"Istiratumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Istiratumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15383",
+        "Interacting Drug Name":"Pidilizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pidilizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15397",
+        "Interacting Drug Name":"GMA-161",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with GMA-161."
+    },
+    {
+        "Interacting DrugBank ID":"DB15409",
+        "Interacting Drug Name":"Ladiratuzumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ladiratuzumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB15415",
+        "Interacting Drug Name":"Tomaralimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tomaralimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15428",
+        "Interacting Drug Name":"Vesencumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Vesencumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15432",
+        "Interacting Drug Name":"Pinatuzumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pinatuzumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB15441",
+        "Interacting Drug Name":"Lulizumab pegol",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lulizumab pegol."
+    },
+    {
+        "Interacting DrugBank ID":"DB15443",
+        "Interacting Drug Name":"Lorukafusp alfa",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Lorukafusp alfa."
+    },
+    {
+        "Interacting DrugBank ID":"DB15453",
+        "Interacting Drug Name":"Naratuximab emtansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Naratuximab emtansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB15559",
+        "Interacting Drug Name":"Zenocutuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Zenocutuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15898",
+        "Interacting Drug Name":"Atoltivimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Atoltivimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15899",
+        "Interacting Drug Name":"Maftivimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Maftivimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15900",
+        "Interacting Drug Name":"Odesivimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Odesivimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15719",
+        "Interacting Drug Name":"Belantamab mafodotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Belantamab mafodotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB16385",
+        "Interacting Drug Name":"Ansuvimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Ansuvimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15718",
+        "Interacting Drug Name":"Bamlanivimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bamlanivimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB05276",
+        "Interacting Drug Name":"Hepatitis B immune globulin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Hepatitis B immune globulin."
+    },
+    {
+        "Interacting DrugBank ID":"DB11597",
+        "Interacting Drug Name":"Human Rho(D) immune globulin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Human Rho(D) immune globulin."
+    },
+    {
+        "Interacting DrugBank ID":"DB15627",
+        "Interacting Drug Name":"Dostarlimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Dostarlimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB08904",
+        "Interacting Drug Name":"Certolizumab pegol",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Certolizumab pegol."
+    },
+    {
+        "Interacting DrugBank ID":"DB15628",
+        "Interacting Drug Name":"Inolimomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Inolimomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15865",
+        "Interacting Drug Name":"Pentaglobin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Pentaglobin."
+    },
+    {
+        "Interacting DrugBank ID":"DB16077",
+        "Interacting Drug Name":"Abagovomab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Abagovomab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16151",
+        "Interacting Drug Name":"Efungumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Efungumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16170",
+        "Interacting Drug Name":"Foralumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Foralumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16195",
+        "Interacting Drug Name":"Indatuximab ravtansine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Indatuximab ravtansine."
+    },
+    {
+        "Interacting DrugBank ID":"DB16225",
+        "Interacting Drug Name":"Magrolimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Magrolimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16265",
+        "Interacting Drug Name":"Olinvacimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Olinvacimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16376",
+        "Interacting Drug Name":"Actoxumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Actoxumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16421",
+        "Interacting Drug Name":"Volagidemab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Volagidemab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16659",
+        "Interacting Drug Name":"Bentracimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bentracimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16695",
+        "Interacting Drug Name":"Amivantamab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Amivantamab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15595",
+        "Interacting Drug Name":"Ebola Zaire vaccine (live, attenuated)",
+        "Interaction Description":"The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15258",
+        "Interacting Drug Name":"Imlifidase",
+        "Interaction Description":"The therapeutic efficacy of Omalizumab can be decreased when used in combination with Imlifidase."
+    },
+    {
+        "Interacting DrugBank ID":"DB15940",
+        "Interacting Drug Name":"Imdevimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Imdevimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15941",
+        "Interacting Drug Name":"Casirivimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Casirivimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16393",
+        "Interacting Drug Name":"Cilgavimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Cilgavimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16394",
+        "Interacting Drug Name":"Tixagevimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tixagevimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16355",
+        "Interacting Drug Name":"Sotrovimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sotrovimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16222",
+        "Interacting Drug Name":"Loncastuximab tesirine",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Loncastuximab tesirine."
+    },
+    {
+        "Interacting DrugBank ID":"DB16732",
+        "Interacting Drug Name":"Tisotumab vedotin",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tisotumab vedotin."
+    },
+    {
+        "Interacting DrugBank ID":"DB14996",
+        "Interacting Drug Name":"Sutimlimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Sutimlimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16755",
+        "Interacting Drug Name":"Bebtelovimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Bebtelovimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15434",
+        "Interacting Drug Name":"Mosunetuzumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Mosunetuzumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15626",
+        "Interacting Drug Name":"Spesolimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Spesolimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15001",
+        "Interacting Drug Name":"Eflapegrastim",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Eflapegrastim."
+    },
+    {
+        "Interacting DrugBank ID":"DB16371",
+        "Interacting Drug Name":"Glofitamab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Glofitamab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14851",
+        "Interacting Drug Name":"Relatlimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Relatlimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB16416",
+        "Interacting Drug Name":"Vilobelimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Vilobelimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15218",
+        "Interacting Drug Name":"Pozelimab",
+        "Interaction Description":"The serum concentration of Pozelimab can be decreased when it is combined with Omalizumab."
+    },
+    {
+        "Interacting DrugBank ID":"DB15043",
+        "Interacting Drug Name":"Toripalimab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Toripalimab."
+    },
+    {
+        "Interacting DrugBank ID":"DB14922",
+        "Interacting Drug Name":"Tislelizumab",
+        "Interaction Description":"The risk or severity of adverse effects can be increased when Omalizumab is combined with Tislelizumab."
+    }
+]

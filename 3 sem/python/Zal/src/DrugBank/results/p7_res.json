@@ -1,0 +1,3266 @@
+[
+    {
+        "DrugBank ID Drug": "DB00001",
+        "Drug Name": "Lepirudin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000048",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00734",
+                "Polypeptide Name": "Prothrombin",
+                "Gene Name": "F2",
+                "GenAtlas ID": "F2",
+                "Chromosome": "11",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00002",
+        "Drug Name": "Cetuximab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000767",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00533",
+                "Polypeptide Name": "Epidermal growth factor receptor",
+                "Gene Name": "EGFR",
+                "GenAtlas ID": "EGFR",
+                "Chromosome": "7",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002094",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02745",
+                "Polypeptide Name": "Complement C1q subcomponent subunit A",
+                "Gene Name": "C1QA",
+                "GenAtlas ID": "C1QA",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002095",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02746",
+                "Polypeptide Name": "Complement C1q subcomponent subunit B",
+                "Gene Name": "C1QB",
+                "GenAtlas ID": "C1QB",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002096",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02747",
+                "Polypeptide Name": "Complement C1q subcomponent subunit C",
+                "Gene Name": "C1QC",
+                "GenAtlas ID": "C1QC",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002097",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08637",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+                "Gene Name": "FCGR3A",
+                "GenAtlas ID": "FCGR3A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000710",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12314",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor I",
+                "Gene Name": "FCGR1A",
+                "GenAtlas ID": "FCGR1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002098",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12318",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-a",
+                "Gene Name": "FCGR2A",
+                "GenAtlas ID": "FCGR2A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00003",
+        "Drug Name": "Dornase alfa",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004796",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00004",
+        "Drug Name": "Denileukin diftitox",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000658",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01589",
+                "Polypeptide Name": "Interleukin-2 receptor subunit alpha",
+                "Gene Name": "IL2RA",
+                "GenAtlas ID": "IL2RA",
+                "Chromosome": "10",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000651",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P14784",
+                "Polypeptide Name": "Interleukin-2 receptor subunit beta",
+                "Gene Name": "IL2RB",
+                "GenAtlas ID": "IL2RB",
+                "Chromosome": "22",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002102",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31785",
+                "Polypeptide Name": "Cytokine receptor common subunit gamma",
+                "Gene Name": "IL2RG",
+                "GenAtlas ID": "IL2RG",
+                "Chromosome": "X",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00005",
+        "Drug Name": "Etanercept",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000704",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01375",
+                "Polypeptide Name": "Tumor necrosis factor",
+                "Gene Name": "TNF",
+                "GenAtlas ID": "TNF",
+                "Chromosome": "6",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001087",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01374",
+                "Polypeptide Name": "Lymphotoxin-alpha",
+                "Gene Name": "LTA",
+                "GenAtlas ID": "LTA",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000710",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12314",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor I",
+                "Gene Name": "FCGR1A",
+                "GenAtlas ID": "FCGR1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002098",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12318",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-a",
+                "Gene Name": "FCGR2A",
+                "GenAtlas ID": "FCGR2A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002099",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31994",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+                "Gene Name": "FCGR2B",
+                "GenAtlas ID": "FCGR2B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002100",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31995",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-c",
+                "Gene Name": "FCGR2C",
+                "GenAtlas ID": "FCGR2C",
+                "Chromosome": "1",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0002097",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08637",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+                "Gene Name": "FCGR3A",
+                "GenAtlas ID": "FCGR3A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0009995",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02745",
+                "Polypeptide Name": "Complement C1q subcomponent subunit A",
+                "Gene Name": "C1QA",
+                "GenAtlas ID": "C1QA",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00006",
+        "Drug Name": "Bivalirudin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000048",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00734",
+                "Polypeptide Name": "Prothrombin",
+                "Gene Name": "F2",
+                "GenAtlas ID": "F2",
+                "Chromosome": "11",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00007",
+        "Drug Name": "Leuprolide",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000203",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30968",
+                "Polypeptide Name": "Gonadotropin-releasing hormone receptor",
+                "Gene Name": "GNRHR",
+                "GenAtlas ID": "GNRHR",
+                "Chromosome": "4",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00008",
+        "Drug Name": "Peginterferon alfa-2a",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00009",
+        "Drug Name": "Alteplase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000211",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00747",
+                "Polypeptide Name": "Plasminogen",
+                "Gene Name": "PLG",
+                "GenAtlas ID": "PLG",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000538",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02671",
+                "Polypeptide Name": "Fibrinogen alpha chain",
+                "Gene Name": "FGA",
+                "GenAtlas ID": "FGA",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002092",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02679",
+                "Polypeptide Name": "Fibrinogen gamma chain",
+                "Gene Name": "FGG",
+                "GenAtlas ID": "FGG",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000240",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05121",
+                "Polypeptide Name": "Plasminogen activator inhibitor 1",
+                "Gene Name": "SERPINE1",
+                "GenAtlas ID": "SERPINE1",
+                "Chromosome": "7",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00010",
+        "Drug Name": "Sermorelin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000625",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q02643",
+                "Polypeptide Name": "Growth hormone-releasing hormone receptor",
+                "Gene Name": "GHRHR",
+                "GenAtlas ID": "GHRHR",
+                "Chromosome": "7",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00011",
+        "Drug Name": "Interferon alfa-n1",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00012",
+        "Drug Name": "Darbepoetin alfa",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000654",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P19235",
+                "Polypeptide Name": "Erythropoietin receptor",
+                "Gene Name": "EPOR",
+                "GenAtlas ID": "EPOR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00013",
+        "Drug Name": "Urokinase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000211",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00747",
+                "Polypeptide Name": "Plasminogen",
+                "Gene Name": "PLG",
+                "GenAtlas ID": "PLG",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000717",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q03405",
+                "Polypeptide Name": "Urokinase plasminogen activator surface receptor",
+                "Gene Name": "PLAUR",
+                "GenAtlas ID": "PLAUR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000240",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05121",
+                "Polypeptide Name": "Plasminogen activator inhibitor 1",
+                "Gene Name": "SERPINE1",
+                "GenAtlas ID": "SERPINE1",
+                "Chromosome": "7",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000969",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05120",
+                "Polypeptide Name": "Plasminogen activator inhibitor 2",
+                "Gene Name": "SERPINB2",
+                "GenAtlas ID": "SERPINB2",
+                "Chromosome": "18",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0002112",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05154",
+                "Polypeptide Name": "Plasma serine protease inhibitor",
+                "Gene Name": "SERPINA5",
+                "GenAtlas ID": "SERPINA5",
+                "Chromosome": "14",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000942",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P98164",
+                "Polypeptide Name": "Low-density lipoprotein receptor-related protein 2",
+                "Gene Name": "LRP2",
+                "GenAtlas ID": "LRP2",
+                "Chromosome": "2",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001656",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q9Y5Y6",
+                "Polypeptide Name": "Suppressor of tumorigenicity 14 protein",
+                "Gene Name": "ST14",
+                "GenAtlas ID": "ST14",
+                "Chromosome": "11",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002113",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P14543",
+                "Polypeptide Name": "Nidogen-1",
+                "Gene Name": "NID1",
+                "GenAtlas ID": "NID1",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00014",
+        "Drug Name": "Goserelin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000134",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P22888",
+                "Polypeptide Name": "Lutropin-choriogonadotropic hormone receptor",
+                "Gene Name": "LHCGR",
+                "GenAtlas ID": "LHCGR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000203",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30968",
+                "Polypeptide Name": "Gonadotropin-releasing hormone receptor",
+                "Gene Name": "GNRHR",
+                "GenAtlas ID": "GNRHR",
+                "Chromosome": "4",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00015",
+        "Drug Name": "Reteplase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000211",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00747",
+                "Polypeptide Name": "Plasminogen",
+                "Gene Name": "PLG",
+                "GenAtlas ID": "PLG",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000538",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02671",
+                "Polypeptide Name": "Fibrinogen alpha chain",
+                "Gene Name": "FGA",
+                "GenAtlas ID": "FGA",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000240",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05121",
+                "Polypeptide Name": "Plasminogen activator inhibitor 1",
+                "Gene Name": "SERPINE1",
+                "GenAtlas ID": "SERPINE1",
+                "Chromosome": "7",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00016",
+        "Drug Name": "Erythropoietin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000654",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P19235",
+                "Polypeptide Name": "Erythropoietin receptor",
+                "Gene Name": "EPOR",
+                "GenAtlas ID": "EPOR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00017",
+        "Drug Name": "Salmon calcitonin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000431",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30988",
+                "Polypeptide Name": "Calcitonin receptor",
+                "Gene Name": "CALCR",
+                "GenAtlas ID": "CALCR",
+                "Chromosome": "7",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00018",
+        "Drug Name": "Interferon alfa-n3",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00019",
+        "Drug Name": "Pegfilgrastim",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000793",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q99062",
+                "Polypeptide Name": "Granulocyte colony-stimulating factor receptor",
+                "Gene Name": "CSF3R",
+                "GenAtlas ID": "CSF3R",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00020",
+        "Drug Name": "Sargramostim",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000628",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P15509",
+                "Polypeptide Name": "Granulocyte-macrophage colony-stimulating factor receptor subunit alpha",
+                "Gene Name": "CSF2RA",
+                "GenAtlas ID": "CSF2RA",
+                "Chromosome": "X, Y",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001036",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P26951",
+                "Polypeptide Name": "Interleukin-3 receptor subunit alpha",
+                "Gene Name": "IL3RA",
+                "GenAtlas ID": "IL3RA",
+                "Chromosome": "X, Y",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002115",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P32927",
+                "Polypeptide Name": "Cytokine receptor common subunit beta",
+                "Gene Name": "CSF2RB",
+                "GenAtlas ID": "CSF2RB",
+                "Chromosome": "22",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002116",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P34741",
+                "Polypeptide Name": "Syndecan-2",
+                "Gene Name": "SDC2",
+                "GenAtlas ID": "SDC2",
+                "Chromosome": "8",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002114",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P13727",
+                "Polypeptide Name": "Bone marrow proteoglycan",
+                "Gene Name": "PRG2",
+                "GenAtlas ID": "PRG2",
+                "Chromosome": "11",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00022",
+        "Drug Name": "Peginterferon alfa-2b",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00023",
+        "Drug Name": "Asparaginase Escherichia coli",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004798",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00024",
+        "Drug Name": "Thyrotropin alfa",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000490",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P16473",
+                "Polypeptide Name": "Thyrotropin receptor",
+                "Gene Name": "TSHR",
+                "GenAtlas ID": "TSHR",
+                "Chromosome": "14",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00025",
+        "Drug Name": "Antihemophilic factor, human recombinant",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000216",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00742",
+                "Polypeptide Name": "Coagulation factor X",
+                "Gene Name": "F10",
+                "GenAtlas ID": "F10",
+                "Chromosome": "13",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000364",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00740",
+                "Polypeptide Name": "Coagulation factor IX",
+                "Gene Name": "F9",
+                "GenAtlas ID": "F9",
+                "Chromosome": "X",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0001043",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P04275",
+                "Polypeptide Name": "von Willebrand factor",
+                "Gene Name": "VWF",
+                "GenAtlas ID": "VWF",
+                "Chromosome": "12",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002117",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O14832",
+                "Polypeptide Name": "Phytanoyl-CoA dioxygenase, peroxisomal",
+                "Gene Name": "PHYH",
+                "GenAtlas ID": "PHYH",
+                "Chromosome": "10",
+                "Cellular Location": "Peroxisome"
+            },
+            {
+                "DrugBank ID Target": "BE0002118",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P07307",
+                "Polypeptide Name": "Asialoglycoprotein receptor 2",
+                "Gene Name": "ASGR2",
+                "GenAtlas ID": "ASGR2",
+                "Chromosome": "17",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001098",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P11021",
+                "Polypeptide Name": "78 kDa glucose-regulated protein",
+                "Gene Name": "HSPA5",
+                "GenAtlas ID": "HSPA5",
+                "Chromosome": "9",
+                "Cellular Location": "Endoplasmic reticulum lumen"
+            },
+            {
+                "DrugBank ID Target": "BE0002109",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P27797",
+                "Polypeptide Name": "Calreticulin",
+                "Gene Name": "CALR",
+                "GenAtlas ID": "CALR",
+                "Chromosome": "19",
+                "Cellular Location": "Endoplasmic reticulum lumen"
+            },
+            {
+                "DrugBank ID Target": "BE0001011",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P27824",
+                "Polypeptide Name": "Calnexin",
+                "Gene Name": "CANX",
+                "GenAtlas ID": "CANX",
+                "Chromosome": "5",
+                "Cellular Location": "Endoplasmic reticulum membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002119",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P49257",
+                "Polypeptide Name": "Protein ERGIC-53",
+                "Gene Name": "LMAN1",
+                "GenAtlas ID": "LMAN1",
+                "Chromosome": "18",
+                "Cellular Location": "Endoplasmic reticulum-Golgi intermediate compartment membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002110",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q07954",
+                "Polypeptide Name": "Prolow-density lipoprotein receptor-related protein 1",
+                "Gene Name": "LRP1",
+                "GenAtlas ID": "LRP1",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002120",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q8NI22",
+                "Polypeptide Name": "Multiple coagulation factor deficiency protein 2",
+                "Gene Name": "MCFD2",
+                "GenAtlas ID": "MCFD2",
+                "Chromosome": "2",
+                "Cellular Location": "Endoplasmic reticulum-Golgi intermediate compartment"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00026",
+        "Drug Name": "Anakinra",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000565",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P14778",
+                "Polypeptide Name": "Interleukin-1 receptor type 1",
+                "Gene Name": "IL1R1",
+                "GenAtlas ID": "IL1R1",
+                "Chromosome": "2",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00028",
+        "Drug Name": "Human immunoglobulin G",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000710",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12314",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor I",
+                "Gene Name": "FCGR1A",
+                "GenAtlas ID": "FCGR1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0004684",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q92637",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor IB",
+                "Gene Name": "FCGR1B",
+                "GenAtlas ID": "No data",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002098",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12318",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-a",
+                "Gene Name": "FCGR2A",
+                "GenAtlas ID": "FCGR2A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002099",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31994",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+                "Gene Name": "FCGR2B",
+                "GenAtlas ID": "FCGR2B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002100",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31995",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-c",
+                "Gene Name": "FCGR2C",
+                "GenAtlas ID": "FCGR2C",
+                "Chromosome": "1",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0002097",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08637",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+                "Gene Name": "FCGR3A",
+                "GenAtlas ID": "FCGR3A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0003455",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01024",
+                "Polypeptide Name": "Complement C3",
+                "Gene Name": "C3",
+                "GenAtlas ID": "C3",
+                "Chromosome": "19",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0004685",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P0C0L4",
+                "Polypeptide Name": "Complement C4-A",
+                "Gene Name": "C4A",
+                "GenAtlas ID": "No data",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0004686",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P0C0L5",
+                "Polypeptide Name": "Complement C4-B",
+                "Gene Name": "C4B",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000855",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01031",
+                "Polypeptide Name": "Complement C5",
+                "Gene Name": "C5",
+                "GenAtlas ID": "C5",
+                "Chromosome": "9",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00029",
+        "Drug Name": "Anistreplase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000211",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00747",
+                "Polypeptide Name": "Plasminogen",
+                "Gene Name": "PLG",
+                "GenAtlas ID": "PLG",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000538",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02671",
+                "Polypeptide Name": "Fibrinogen alpha chain",
+                "Gene Name": "FGA",
+                "GenAtlas ID": "FGA",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000240",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05121",
+                "Polypeptide Name": "Plasminogen activator inhibitor 1",
+                "Gene Name": "SERPINE1",
+                "GenAtlas ID": "SERPINE1",
+                "Chromosome": "7",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00030",
+        "Drug Name": "Insulin human",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000033",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06213",
+                "Polypeptide Name": "Insulin receptor",
+                "Gene Name": "INSR",
+                "GenAtlas ID": "INSR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000858",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08069",
+                "Polypeptide Name": "Insulin-like growth factor 1 receptor",
+                "Gene Name": "IGF1R",
+                "GenAtlas ID": "IGF1R",
+                "Chromosome": "15",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001123",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P16870",
+                "Polypeptide Name": "Carboxypeptidase E",
+                "Gene Name": "CPE",
+                "GenAtlas ID": "CPE",
+                "Chromosome": "4",
+                "Cellular Location": "Cytoplasmic vesicle"
+            },
+            {
+                "DrugBank ID Target": "BE0001147",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48745",
+                "Polypeptide Name": "Protein NOV homolog",
+                "Gene Name": "NOV",
+                "GenAtlas ID": "NOV",
+                "Chromosome": "8",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000942",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P98164",
+                "Polypeptide Name": "Low-density lipoprotein receptor-related protein 2",
+                "Gene Name": "LRP2",
+                "GenAtlas ID": "LRP2",
+                "Chromosome": "2",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002126",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q16270",
+                "Polypeptide Name": "Insulin-like growth factor-binding protein 7",
+                "Gene Name": "IGFBP7",
+                "GenAtlas ID": "IGFBP7",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00031",
+        "Drug Name": "Tenecteplase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000211",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00747",
+                "Polypeptide Name": "Plasminogen",
+                "Gene Name": "PLG",
+                "GenAtlas ID": "PLG",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000538",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02671",
+                "Polypeptide Name": "Fibrinogen alpha chain",
+                "Gene Name": "FGA",
+                "GenAtlas ID": "FGA",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000717",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q03405",
+                "Polypeptide Name": "Urokinase plasminogen activator surface receptor",
+                "Gene Name": "PLAUR",
+                "GenAtlas ID": "PLAUR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000240",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05121",
+                "Polypeptide Name": "Plasminogen activator inhibitor 1",
+                "Gene Name": "SERPINE1",
+                "GenAtlas ID": "SERPINE1",
+                "Chromosome": "7",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000969",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05120",
+                "Polypeptide Name": "Plasminogen activator inhibitor 2",
+                "Gene Name": "SERPINB2",
+                "GenAtlas ID": "SERPINB2",
+                "Chromosome": "18",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0002104",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05452",
+                "Polypeptide Name": "Tetranectin",
+                "Gene Name": "CLEC3B",
+                "GenAtlas ID": "CLEC3B",
+                "Chromosome": "No data",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002105",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05787",
+                "Polypeptide Name": "Keratin, type II cytoskeletal 8",
+                "Gene Name": "KRT8",
+                "GenAtlas ID": "KRT8",
+                "Chromosome": "No data",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0001170",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P07355",
+                "Polypeptide Name": "Annexin A2",
+                "Gene Name": "ANXA2",
+                "GenAtlas ID": "ANXA2",
+                "Chromosome": "15",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002109",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P27797",
+                "Polypeptide Name": "Calreticulin",
+                "Gene Name": "CALR",
+                "GenAtlas ID": "CALR",
+                "Chromosome": "19",
+                "Cellular Location": "Endoplasmic reticulum lumen"
+            },
+            {
+                "DrugBank ID Target": "BE0001011",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P27824",
+                "Polypeptide Name": "Calnexin",
+                "Gene Name": "CANX",
+                "GenAtlas ID": "CANX",
+                "Chromosome": "5",
+                "Cellular Location": "Endoplasmic reticulum membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002110",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q07954",
+                "Polypeptide Name": "Prolow-density lipoprotein receptor-related protein 1",
+                "Gene Name": "LRP1",
+                "GenAtlas ID": "LRP1",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00032",
+        "Drug Name": "Menotropins",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000387",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P23945",
+                "Polypeptide Name": "Follicle-stimulating hormone receptor",
+                "Gene Name": "FSHR",
+                "GenAtlas ID": "FSHR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000134",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P22888",
+                "Polypeptide Name": "Lutropin-choriogonadotropic hormone receptor",
+                "Gene Name": "LHCGR",
+                "GenAtlas ID": "LHCGR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00033",
+        "Drug Name": "Interferon gamma-1b",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000711",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P15260",
+                "Polypeptide Name": "Interferon gamma receptor 1",
+                "Gene Name": "IFNGR1",
+                "GenAtlas ID": "IFNGR1",
+                "Chromosome": "6",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000467",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P38484",
+                "Polypeptide Name": "Interferon gamma receptor 2",
+                "Gene Name": "IFNGR2",
+                "GenAtlas ID": "IFNGR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00034",
+        "Drug Name": "Interferon alfa-2a",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00035",
+        "Drug Name": "Desmopressin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000293",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30518",
+                "Polypeptide Name": "Vasopressin V2 receptor",
+                "Gene Name": "AVPR2",
+                "GenAtlas ID": "AVPR2",
+                "Chromosome": "X",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000165",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P37288",
+                "Polypeptide Name": "Vasopressin V1a receptor",
+                "Gene Name": "AVPR1A",
+                "GenAtlas ID": "AVPR1A",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000773",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P47901",
+                "Polypeptide Name": "Vasopressin V1b receptor",
+                "Gene Name": "AVPR1B",
+                "GenAtlas ID": "AVPR1B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00036",
+        "Drug Name": "Coagulation factor VIIa Recombinant Human",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000216",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00742",
+                "Polypeptide Name": "Coagulation factor X",
+                "Gene Name": "F10",
+                "GenAtlas ID": "F10",
+                "Chromosome": "13",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0001178",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P13726",
+                "Polypeptide Name": "Tissue factor",
+                "Gene Name": "F3",
+                "GenAtlas ID": "F3",
+                "Chromosome": "1",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000967",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P10646",
+                "Polypeptide Name": "Tissue factor pathway inhibitor",
+                "Gene Name": "TFPI",
+                "GenAtlas ID": "TFPI",
+                "Chromosome": "2",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000403",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P38435",
+                "Polypeptide Name": "Vitamin K-dependent gamma-carboxylase",
+                "Gene Name": "GGCX",
+                "GenAtlas ID": "GGCX",
+                "Chromosome": "2",
+                "Cellular Location": "Endoplasmic reticulum membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000333",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08709",
+                "Polypeptide Name": "Coagulation factor VII",
+                "Gene Name": "F7",
+                "GenAtlas ID": "F7",
+                "Chromosome": "13",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00038",
+        "Drug Name": "Oprelvekin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000416",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q14626",
+                "Polypeptide Name": "Interleukin-11 receptor subunit alpha",
+                "Gene Name": "IL11RA",
+                "GenAtlas ID": "IL11RA",
+                "Chromosome": "9",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00039",
+        "Drug Name": "Palifermin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000748",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P21802",
+                "Polypeptide Name": "Fibroblast growth factor receptor 2",
+                "Gene Name": "FGFR2",
+                "GenAtlas ID": "FGFR2",
+                "Chromosome": "10",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002131",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P11362",
+                "Polypeptide Name": "Fibroblast growth factor receptor 1",
+                "Gene Name": "FGFR1",
+                "GenAtlas ID": "FGFR1",
+                "Chromosome": "8",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001031",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P98160",
+                "Polypeptide Name": "Basement membrane-specific heparan sulfate proteoglycan core protein",
+                "Gene Name": "HSPG2",
+                "GenAtlas ID": "HSPG2",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00040",
+        "Drug Name": "Glucagon",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000527",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P47871",
+                "Polypeptide Name": "Glucagon receptor",
+                "Gene Name": "GCGR",
+                "GenAtlas ID": "GCGR",
+                "Chromosome": "17",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002134",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O95838",
+                "Polypeptide Name": "Glucagon-like peptide 2 receptor",
+                "Gene Name": "GLP2R",
+                "GenAtlas ID": "GLP2R",
+                "Chromosome": "17",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000857",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P43220",
+                "Polypeptide Name": "Glucagon-like peptide 1 receptor",
+                "Gene Name": "GLP1R",
+                "GenAtlas ID": "GLP1R",
+                "Chromosome": "6",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00041",
+        "Drug Name": "Aldesleukin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000651",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P14784",
+                "Polypeptide Name": "Interleukin-2 receptor subunit beta",
+                "Gene Name": "IL2RB",
+                "GenAtlas ID": "IL2RB",
+                "Chromosome": "22",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000658",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01589",
+                "Polypeptide Name": "Interleukin-2 receptor subunit alpha",
+                "Gene Name": "IL2RA",
+                "GenAtlas ID": "IL2RA",
+                "Chromosome": "10",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002102",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31785",
+                "Polypeptide Name": "Cytokine receptor common subunit gamma",
+                "Gene Name": "IL2RG",
+                "GenAtlas ID": "IL2RG",
+                "Chromosome": "X",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00042",
+        "Drug Name": "Botulinum toxin type B",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0002137",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P63027",
+                "Polypeptide Name": "Vesicle-associated membrane protein 2",
+                "Gene Name": "VAMP2",
+                "GenAtlas ID": "VAMP2",
+                "Chromosome": "17",
+                "Cellular Location": "Cytoplasmic vesicle"
+            },
+            {
+                "DrugBank ID Target": "BE0002136",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P23763",
+                "Polypeptide Name": "Vesicle-associated membrane protein 1",
+                "Gene Name": "VAMP1",
+                "GenAtlas ID": "VAMP1",
+                "Chromosome": "12",
+                "Cellular Location": "Cytoplasmic vesicle"
+            },
+            {
+                "DrugBank ID Target": "BE0002138",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q8N9I0",
+                "Polypeptide Name": "Synaptotagmin-2",
+                "Gene Name": "SYT2",
+                "GenAtlas ID": "SYT2",
+                "Chromosome": "1",
+                "Cellular Location": "Cytoplasmic vesicle"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00043",
+        "Drug Name": "Omalizumab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000015",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12319",
+                "Polypeptide Name": "High affinity immunoglobulin epsilon receptor subunit alpha",
+                "Gene Name": "FCER1A",
+                "GenAtlas ID": "FCER1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002139",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q01362",
+                "Polypeptide Name": "High affinity immunoglobulin epsilon receptor subunit beta",
+                "Gene Name": "MS4A2",
+                "GenAtlas ID": "MS4A2",
+                "Chromosome": "11",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00044",
+        "Drug Name": "Lutropin alfa",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000134",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P22888",
+                "Polypeptide Name": "Lutropin-choriogonadotropic hormone receptor",
+                "Gene Name": "LHCGR",
+                "GenAtlas ID": "LHCGR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00045",
+        "Drug Name": "Lyme disease vaccine (recombinant OspA)",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0001164",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O60603",
+                "Polypeptide Name": "Toll-like receptor 2",
+                "Gene Name": "TLR2",
+                "GenAtlas ID": "TLR2",
+                "Chromosome": "4",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00046",
+        "Drug Name": "Insulin lispro",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000033",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06213",
+                "Polypeptide Name": "Insulin receptor",
+                "Gene Name": "INSR",
+                "GenAtlas ID": "INSR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000858",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08069",
+                "Polypeptide Name": "Insulin-like growth factor 1 receptor",
+                "Gene Name": "IGF1R",
+                "GenAtlas ID": "IGF1R",
+                "Chromosome": "15",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00047",
+        "Drug Name": "Insulin glargine",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000033",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06213",
+                "Polypeptide Name": "Insulin receptor",
+                "Gene Name": "INSR",
+                "GenAtlas ID": "INSR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000858",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08069",
+                "Polypeptide Name": "Insulin-like growth factor 1 receptor",
+                "Gene Name": "IGF1R",
+                "GenAtlas ID": "IGF1R",
+                "Chromosome": "15",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00048",
+        "Drug Name": "Collagenase clostridium histolyticum",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000025",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02452",
+                "Polypeptide Name": "Collagen alpha-1(I) chain",
+                "Gene Name": "COL1A1",
+                "GenAtlas ID": "COL1A1",
+                "Chromosome": "17",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002140",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02458",
+                "Polypeptide Name": "Collagen alpha-1(II) chain",
+                "Gene Name": "COL2A1",
+                "GenAtlas ID": "COL2A1",
+                "Chromosome": "12",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002130",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02461",
+                "Polypeptide Name": "Collagen alpha-1(III) chain",
+                "Gene Name": "COL3A1",
+                "GenAtlas ID": "COL3A1",
+                "Chromosome": "2",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00049",
+        "Drug Name": "Rasburicase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004823",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00050",
+        "Drug Name": "Cetrorelix",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000203",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30968",
+                "Polypeptide Name": "Gonadotropin-releasing hormone receptor",
+                "Gene Name": "GNRHR",
+                "GenAtlas ID": "GNRHR",
+                "Chromosome": "4",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000134",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P22888",
+                "Polypeptide Name": "Lutropin-choriogonadotropic hormone receptor",
+                "Gene Name": "LHCGR",
+                "GenAtlas ID": "LHCGR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00051",
+        "Drug Name": "Adalimumab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000704",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01375",
+                "Polypeptide Name": "Tumor necrosis factor",
+                "Gene Name": "TNF",
+                "GenAtlas ID": "TNF",
+                "Chromosome": "6",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00052",
+        "Drug Name": "Somatotropin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000075",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P10912",
+                "Polypeptide Name": "Growth hormone receptor",
+                "Gene Name": "GHR",
+                "GenAtlas ID": "GHR",
+                "Chromosome": "5",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000345",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P16471",
+                "Polypeptide Name": "Prolactin receptor",
+                "Gene Name": "PRLR",
+                "GenAtlas ID": "PRLR",
+                "Chromosome": "5",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00053",
+        "Drug Name": "Imiglucerase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004806",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00054",
+        "Drug Name": "Abciximab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0001155",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05106",
+                "Polypeptide Name": "Integrin beta-3",
+                "Gene Name": "ITGB3",
+                "GenAtlas ID": "ITGB3",
+                "Chromosome": "17",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000439",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08514",
+                "Polypeptide Name": "Integrin alpha-IIb",
+                "Gene Name": "ITGA2B",
+                "GenAtlas ID": "ITGA2B",
+                "Chromosome": "17",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002098",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12318",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-a",
+                "Gene Name": "FCGR2A",
+                "GenAtlas ID": "FCGR2A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002099",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31994",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+                "Gene Name": "FCGR2B",
+                "GenAtlas ID": "FCGR2B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001068",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P04004",
+                "Polypeptide Name": "Vitronectin",
+                "Gene Name": "VTN",
+                "GenAtlas ID": "VTN",
+                "Chromosome": "17",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00055",
+        "Drug Name": "Drotrecogin alfa",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000016",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00451",
+                "Polypeptide Name": "Coagulation factor VIII",
+                "Gene Name": "F8",
+                "GenAtlas ID": "F8",
+                "Chromosome": "X",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000041",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12259",
+                "Polypeptide Name": "Coagulation factor V",
+                "Gene Name": "F5",
+                "GenAtlas ID": "F5",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000240",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05121",
+                "Polypeptide Name": "Plasminogen activator inhibitor 1",
+                "Gene Name": "SERPINE1",
+                "GenAtlas ID": "SERPINE1",
+                "Chromosome": "7",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0001151",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P07204",
+                "Polypeptide Name": "Thrombomodulin",
+                "Gene Name": "THBD",
+                "GenAtlas ID": "THBD",
+                "Chromosome": "20",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000943",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P07225",
+                "Polypeptide Name": "Vitamin K-dependent protein S",
+                "Gene Name": "PROS1",
+                "GenAtlas ID": "PROS1",
+                "Chromosome": "3",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000048",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00734",
+                "Polypeptide Name": "Prothrombin",
+                "Gene Name": "F2",
+                "GenAtlas ID": "F2",
+                "Chromosome": "11",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0001129",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P02776",
+                "Polypeptide Name": "Platelet factor 4",
+                "Gene Name": "PF4",
+                "GenAtlas ID": "PF4",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002112",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05154",
+                "Polypeptide Name": "Plasma serine protease inhibitor",
+                "Gene Name": "SERPINA5",
+                "GenAtlas ID": "SERPINA5",
+                "Chromosome": "14",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002142",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P35237",
+                "Polypeptide Name": "Serpin B6",
+                "Gene Name": "SERPINB6",
+                "GenAtlas ID": "SERPINB6",
+                "Chromosome": "6",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0001161",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q9UNN8",
+                "Polypeptide Name": "Endothelial protein C receptor",
+                "Gene Name": "PROCR",
+                "GenAtlas ID": "PROCR",
+                "Chromosome": "20",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00056",
+        "Drug Name": "Gemtuzumab ozogamicin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000674",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P20138",
+                "Polypeptide Name": "Myeloid cell surface antigen CD33",
+                "Gene Name": "CD33",
+                "GenAtlas ID": "CD33",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002097",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08637",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+                "Gene Name": "FCGR3A",
+                "GenAtlas ID": "FCGR3A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000710",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12314",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor I",
+                "Gene Name": "FCGR1A",
+                "GenAtlas ID": "FCGR1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00057",
+        "Drug Name": "Indium In-111 satumomab pendetide",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004842",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00058",
+        "Drug Name": "Alpha-1-proteinase inhibitor",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000394",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08246",
+                "Polypeptide Name": "Neutrophil elastase",
+                "Gene Name": "ELANE",
+                "GenAtlas ID": "ELA2",
+                "Chromosome": "19",
+                "Cellular Location": "Cytoplasmic"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00059",
+        "Drug Name": "Pegaspargase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004798",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00060",
+        "Drug Name": "Interferon beta-1a",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00061",
+        "Drug Name": "Pegademase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004828",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            },
+            {
+                "DrugBank ID Target": "BE0000917",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P62993",
+                "Polypeptide Name": "Growth factor receptor-bound protein 2",
+                "Gene Name": "GRB2",
+                "GenAtlas ID": "GRB2",
+                "Chromosome": "17",
+                "Cellular Location": "Nucleus"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00062",
+        "Drug Name": "Albumin human",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0009576",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00063",
+        "Drug Name": "Eptifibatide",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0001155",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05106",
+                "Polypeptide Name": "Integrin beta-3",
+                "Gene Name": "ITGB3",
+                "GenAtlas ID": "ITGB3",
+                "Chromosome": "17",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0009351",
+                "Source": "TrEMBL",
+                "External DB ID": "A0A024R8I1",
+                "Polypeptide Name": "Voltage-dependent N-type calcium channel subunit alpha",
+                "Gene Name": "CACNA1B",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00065",
+        "Drug Name": "Infliximab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000704",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01375",
+                "Polypeptide Name": "Tumor necrosis factor",
+                "Gene Name": "TNF",
+                "GenAtlas ID": "TNF",
+                "Chromosome": "6",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00066",
+        "Drug Name": "Follitropin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000387",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P23945",
+                "Polypeptide Name": "Follicle-stimulating hormone receptor",
+                "Gene Name": "FSHR",
+                "GenAtlas ID": "FSHR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00067",
+        "Drug Name": "Vasopressin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000293",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30518",
+                "Polypeptide Name": "Vasopressin V2 receptor",
+                "Gene Name": "AVPR2",
+                "GenAtlas ID": "AVPR2",
+                "Chromosome": "X",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000165",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P37288",
+                "Polypeptide Name": "Vasopressin V1a receptor",
+                "Gene Name": "AVPR1A",
+                "GenAtlas ID": "AVPR1A",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000773",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P47901",
+                "Polypeptide Name": "Vasopressin V1b receptor",
+                "Gene Name": "AVPR1B",
+                "GenAtlas ID": "AVPR1B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000844",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30559",
+                "Polypeptide Name": "Oxytocin receptor",
+                "Gene Name": "OXTR",
+                "GenAtlas ID": "OXTR",
+                "Chromosome": "3",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00068",
+        "Drug Name": "Interferon beta-1b",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00069",
+        "Drug Name": "Interferon alfacon-1",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00070",
+        "Drug Name": "Hyaluronidase (ovine)",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004821",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            },
+            {
+                "DrugBank ID Target": "BE0000984",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01137",
+                "Polypeptide Name": "Transforming growth factor beta-1",
+                "Gene Name": "TGFB1",
+                "GenAtlas ID": "TGFB1",
+                "Chromosome": "19",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00071",
+        "Drug Name": "Insulin pork",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000033",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06213",
+                "Polypeptide Name": "Insulin receptor",
+                "Gene Name": "INSR",
+                "GenAtlas ID": "INSR",
+                "Chromosome": "19",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000858",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08069",
+                "Polypeptide Name": "Insulin-like growth factor 1 receptor",
+                "Gene Name": "IGF1R",
+                "GenAtlas ID": "IGF1R",
+                "Chromosome": "15",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00072",
+        "Drug Name": "Trastuzumab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000511",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P04626",
+                "Polypeptide Name": "Receptor tyrosine-protein kinase erbB-2",
+                "Gene Name": "ERBB2",
+                "GenAtlas ID": "ERBB2",
+                "Chromosome": "17",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00073",
+        "Drug Name": "Rituximab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000066",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P11836",
+                "Polypeptide Name": "B-lymphocyte antigen CD20",
+                "Gene Name": "MS4A1",
+                "GenAtlas ID": "MS4A1",
+                "Chromosome": "11",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00074",
+        "Drug Name": "Basiliximab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000658",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01589",
+                "Polypeptide Name": "Interleukin-2 receptor subunit alpha",
+                "Gene Name": "IL2RA",
+                "GenAtlas ID": "IL2RA",
+                "Chromosome": "10",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000651",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P14784",
+                "Polypeptide Name": "Interleukin-2 receptor subunit beta",
+                "Gene Name": "IL2RB",
+                "GenAtlas ID": "IL2RB",
+                "Chromosome": "22",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00075",
+        "Drug Name": "Muromonab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0003456",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P04234",
+                "Polypeptide Name": "T-cell surface glycoprotein CD3 delta chain",
+                "Gene Name": "CD3D",
+                "GenAtlas ID": "CD3D",
+                "Chromosome": "11",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000274",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P07766",
+                "Polypeptide Name": "T-cell surface glycoprotein CD3 epsilon chain",
+                "Gene Name": "CD3E",
+                "GenAtlas ID": "CD3E",
+                "Chromosome": "11",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0003457",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P09693",
+                "Polypeptide Name": "T-cell surface glycoprotein CD3 gamma chain",
+                "Gene Name": "CD3G",
+                "GenAtlas ID": "CD3G",
+                "Chromosome": "11",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0003458",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P20963",
+                "Polypeptide Name": "T-cell surface glycoprotein CD3 zeta chain",
+                "Gene Name": "CD247",
+                "GenAtlas ID": "CD247",
+                "Chromosome": "1",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00076",
+        "Drug Name": "Digoxin Immune Fab (Ovine)",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004837",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00078",
+        "Drug Name": "Ibritumomab tiuxetan",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000066",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P11836",
+                "Polypeptide Name": "B-lymphocyte antigen CD20",
+                "Gene Name": "MS4A1",
+                "GenAtlas ID": "MS4A1",
+                "Chromosome": "11",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00080",
+        "Drug Name": "Daptomycin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0010021",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00081",
+        "Drug Name": "Tositumomab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000066",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P11836",
+                "Polypeptide Name": "B-lymphocyte antigen CD20",
+                "Gene Name": "MS4A1",
+                "GenAtlas ID": "MS4A1",
+                "Chromosome": "11",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002099",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31994",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+                "Gene Name": "FCGR2B",
+                "GenAtlas ID": "FCGR2B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00082",
+        "Drug Name": "Pegvisomant",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000075",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P10912",
+                "Polypeptide Name": "Growth hormone receptor",
+                "Gene Name": "GHR",
+                "GenAtlas ID": "GHR",
+                "Chromosome": "5",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00083",
+        "Drug Name": "Botulinum toxin type A",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000390",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P60880",
+                "Polypeptide Name": "Synaptosomal-associated protein 25",
+                "Gene Name": "SNAP25",
+                "GenAtlas ID": "SNAP25",
+                "Chromosome": "20",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0003572",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P62745",
+                "Polypeptide Name": "Rho-related GTP-binding protein RhoB",
+                "Gene Name": "RHOB",
+                "GenAtlas ID": "No data",
+                "Chromosome": "2",
+                "Cellular Location": "Late endosome membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00085",
+        "Drug Name": "Pancrelipase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004834",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            },
+            {
+                "DrugBank ID Target": "BE0004835",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            },
+            {
+                "DrugBank ID Target": "BE0004836",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00086",
+        "Drug Name": "Streptokinase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000211",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00747",
+                "Polypeptide Name": "Plasminogen",
+                "Gene Name": "PLG",
+                "GenAtlas ID": "PLG",
+                "Chromosome": "6",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000928",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P25116",
+                "Polypeptide Name": "Proteinase-activated receptor 1",
+                "Gene Name": "F2R",
+                "GenAtlas ID": "F2R",
+                "Chromosome": "5",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00087",
+        "Drug Name": "Alemtuzumab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000083",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31358",
+                "Polypeptide Name": "CAMPATH-1 antigen",
+                "Gene Name": "CD52",
+                "GenAtlas ID": "CD52",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002097",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08637",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+                "Gene Name": "FCGR3A",
+                "GenAtlas ID": "FCGR3A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000710",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12314",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor I",
+                "Gene Name": "FCGR1A",
+                "GenAtlas ID": "FCGR1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002098",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12318",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-a",
+                "Gene Name": "FCGR2A",
+                "GenAtlas ID": "FCGR2A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002099",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31994",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+                "Gene Name": "FCGR2B",
+                "GenAtlas ID": "FCGR2B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002100",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31995",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-c",
+                "Gene Name": "FCGR2C",
+                "GenAtlas ID": "FCGR2C",
+                "Chromosome": "1",
+                "Cellular Location": "Cytoplasm"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00088",
+        "Drug Name": "Alglucerase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004806",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00089",
+        "Drug Name": "Capromab pendetide",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000568",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q04609",
+                "Polypeptide Name": "Glutamate carboxypeptidase 2",
+                "Gene Name": "FOLH1",
+                "GenAtlas ID": "FOLH1",
+                "Chromosome": "11",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00090",
+        "Drug Name": "Laronidase",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004822",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00091",
+        "Drug Name": "Cyclosporine",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000379",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P49069",
+                "Polypeptide Name": "Calcium signal-modulating cyclophilin ligand",
+                "Gene Name": "CAMLG",
+                "GenAtlas ID": "CAMLG",
+                "Chromosome": "5",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002143",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q96LZ3",
+                "Polypeptide Name": "Calcineurin subunit B type 2",
+                "Gene Name": "PPP3R2",
+                "GenAtlas ID": "PPP3R2",
+                "Chromosome": "9",
+                "Cellular Location": "No data"
+            },
+            {
+                "DrugBank ID Target": "BE0001014",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P62937",
+                "Polypeptide Name": "Peptidyl-prolyl cis-trans isomerase A",
+                "Gene Name": "PPIA",
+                "GenAtlas ID": "PPIA",
+                "Chromosome": "7",
+                "Cellular Location": "Cytoplasm"
+            },
+            {
+                "DrugBank ID Target": "BE0001399",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30405",
+                "Polypeptide Name": "Peptidyl-prolyl cis-trans isomerase F, mitochondrial",
+                "Gene Name": "PPIF",
+                "GenAtlas ID": "PPIF",
+                "Chromosome": "10",
+                "Cellular Location": "Mitochondrion matrix"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00092",
+        "Drug Name": "Alefacept",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000719",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06729",
+                "Polypeptide Name": "T-cell surface antigen CD2",
+                "Gene Name": "CD2",
+                "GenAtlas ID": "CD2",
+                "Chromosome": "1",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002097",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08637",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-A",
+                "Gene Name": "FCGR3A",
+                "GenAtlas ID": "FCGR3A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00093",
+        "Drug Name": "Felypressin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000165",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P37288",
+                "Polypeptide Name": "Vasopressin V1a receptor",
+                "Gene Name": "AVPR1A",
+                "GenAtlas ID": "AVPR1A",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00094",
+        "Drug Name": "Urofollitropin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000387",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P23945",
+                "Polypeptide Name": "Follicle-stimulating hormone receptor",
+                "Gene Name": "FSHR",
+                "GenAtlas ID": "FSHR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00095",
+        "Drug Name": "Efalizumab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0009967",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P20702",
+                "Polypeptide Name": "Integrin alpha-X",
+                "Gene Name": "ITGAX",
+                "GenAtlas ID": "No data",
+                "Chromosome": "16",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000516",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P20701",
+                "Polypeptide Name": "Integrin alpha-L",
+                "Gene Name": "ITGAL",
+                "GenAtlas ID": "ITGAL",
+                "Chromosome": "16",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00097",
+        "Drug Name": "Choriogonadotropin alfa",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000134",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P22888",
+                "Polypeptide Name": "Lutropin-choriogonadotropic hormone receptor",
+                "Gene Name": "LHCGR",
+                "GenAtlas ID": "LHCGR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000387",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P23945",
+                "Polypeptide Name": "Follicle-stimulating hormone receptor",
+                "Gene Name": "FSHR",
+                "GenAtlas ID": "FSHR",
+                "Chromosome": "2",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00098",
+        "Drug Name": "Antithymocyte immunoglobulin (rabbit)",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0003573",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q95460",
+                "Polypeptide Name": "Major histocompatibility complex class I-related gene protein",
+                "Gene Name": "MR1",
+                "GenAtlas ID": "No data",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000516",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P20701",
+                "Polypeptide Name": "Integrin alpha-L",
+                "Gene Name": "ITGAL",
+                "GenAtlas ID": "ITGAL",
+                "Chromosome": "16",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000846",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P42081",
+                "Polypeptide Name": "T-lymphocyte activation antigen CD86",
+                "Gene Name": "CD86",
+                "GenAtlas ID": "CD86",
+                "Chromosome": "3",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0002099",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P31994",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor II-b",
+                "Gene Name": "FCGR2B",
+                "GenAtlas ID": "FCGR2B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0003488",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01730",
+                "Polypeptide Name": "T-cell surface glycoprotein CD4",
+                "Gene Name": "CD4",
+                "GenAtlas ID": "CD4",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0003575",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05556",
+                "Polypeptide Name": "Integrin beta-1",
+                "Gene Name": "ITGB1",
+                "GenAtlas ID": "No data",
+                "Chromosome": "10",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0003576",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06756",
+                "Polypeptide Name": "Integrin alpha-V",
+                "Gene Name": "ITGAV",
+                "GenAtlas ID": "No data",
+                "Chromosome": "2",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001155",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05106",
+                "Polypeptide Name": "Integrin beta-3",
+                "Gene Name": "ITGB3",
+                "GenAtlas ID": "ITGB3",
+                "Chromosome": "17",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000598",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P06126",
+                "Polypeptide Name": "T-cell surface glycoprotein CD1a",
+                "Gene Name": "CD1A",
+                "GenAtlas ID": "CD1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00099",
+        "Drug Name": "Filgrastim",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000793",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q99062",
+                "Polypeptide Name": "Granulocyte colony-stimulating factor receptor",
+                "Gene Name": "CSF3R",
+                "GenAtlas ID": "CSF3R",
+                "Chromosome": "1",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00100",
+        "Drug Name": "Coagulation Factor IX (Recombinant)",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000216",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00742",
+                "Polypeptide Name": "Coagulation factor X",
+                "Gene Name": "F10",
+                "GenAtlas ID": "F10",
+                "Chromosome": "13",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0001021",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P03951",
+                "Polypeptide Name": "Coagulation factor XI",
+                "Gene Name": "F11",
+                "GenAtlas ID": "F11",
+                "Chromosome": "4",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000333",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P08709",
+                "Polypeptide Name": "Coagulation factor VII",
+                "Gene Name": "F7",
+                "GenAtlas ID": "F7",
+                "Chromosome": "13",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000016",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00451",
+                "Polypeptide Name": "Coagulation factor VIII",
+                "Gene Name": "F8",
+                "GenAtlas ID": "F8",
+                "Chromosome": "X",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0000048",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P00734",
+                "Polypeptide Name": "Prothrombin",
+                "Gene Name": "F2",
+                "GenAtlas ID": "F2",
+                "Chromosome": "11",
+                "Cellular Location": "Secreted"
+            },
+            {
+                "DrugBank ID Target": "BE0002110",
+                "Source": "Swiss-Prot",
+                "External DB ID": "Q07954",
+                "Polypeptide Name": "Prolow-density lipoprotein receptor-related protein 1",
+                "Gene Name": "LRP1",
+                "GenAtlas ID": "LRP1",
+                "Chromosome": "12",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000403",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P38435",
+                "Polypeptide Name": "Vitamin K-dependent gamma-carboxylase",
+                "Gene Name": "GGCX",
+                "GenAtlas ID": "GGCX",
+                "Chromosome": "2",
+                "Cellular Location": "Endoplasmic reticulum membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00102",
+        "Drug Name": "Becaplermin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000205",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P09619",
+                "Polypeptide Name": "Platelet-derived growth factor receptor beta",
+                "Gene Name": "PDGFRB",
+                "GenAtlas ID": "PDGFRB",
+                "Chromosome": "5",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000852",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P16234",
+                "Polypeptide Name": "Platelet-derived growth factor receptor alpha",
+                "Gene Name": "PDGFRA",
+                "GenAtlas ID": "PDGFRA",
+                "Chromosome": "4",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000910",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P01023",
+                "Polypeptide Name": "Alpha-2-macroglobulin",
+                "Gene Name": "A2M",
+                "GenAtlas ID": "A2M",
+                "Chromosome": "12",
+                "Cellular Location": "Secreted"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00103",
+        "Drug Name": "Agalsidase beta",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0004830",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00104",
+        "Drug Name": "Octreotide",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0010008",
+                "Source": "No data",
+                "External DB ID": "No data",
+                "Polypeptide Name": "No data",
+                "Gene Name": "No data",
+                "GenAtlas ID": "No data",
+                "Chromosome": "No data",
+                "Cellular Location": "No data"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00105",
+        "Drug Name": "Interferon alfa-2b",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000385",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P48551",
+                "Polypeptide Name": "Interferon alpha/beta receptor 2",
+                "Gene Name": "IFNAR2",
+                "GenAtlas ID": "IFNAR2",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000661",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P17181",
+                "Polypeptide Name": "Interferon alpha/beta receptor 1",
+                "Gene Name": "IFNAR1",
+                "GenAtlas ID": "IFNAR1",
+                "Chromosome": "21",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00106",
+        "Drug Name": "Abarelix",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000203",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30968",
+                "Polypeptide Name": "Gonadotropin-releasing hormone receptor",
+                "Gene Name": "GNRHR",
+                "GenAtlas ID": "GNRHR",
+                "Chromosome": "4",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00107",
+        "Drug Name": "Oxytocin",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000844",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P30559",
+                "Polypeptide Name": "Oxytocin receptor",
+                "Gene Name": "OXTR",
+                "GenAtlas ID": "OXTR",
+                "Chromosome": "3",
+                "Cellular Location": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "DrugBank ID Drug": "DB00108",
+        "Drug Name": "Natalizumab",
+        "Targets": [
+            {
+                "DrugBank ID Target": "BE0000590",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P13612",
+                "Polypeptide Name": "Integrin alpha-4",
+                "Gene Name": "ITGA4",
+                "GenAtlas ID": "ITGA4",
+                "Chromosome": "2",
+                "Cellular Location": "Membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000901",
+                "Source": "Swiss-Prot",
+                "External DB ID": "O75015",
+                "Polypeptide Name": "Low affinity immunoglobulin gamma Fc region receptor III-B",
+                "Gene Name": "FCGR3B",
+                "GenAtlas ID": "FCGR3B",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0000710",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P12314",
+                "Polypeptide Name": "High affinity immunoglobulin gamma Fc receptor I",
+                "Gene Name": "FCGR1A",
+                "GenAtlas ID": "FCGR1A",
+                "Chromosome": "1",
+                "Cellular Location": "Cell membrane"
+            },
+            {
+                "DrugBank ID Target": "BE0001085",
+                "Source": "Swiss-Prot",
+                "External DB ID": "P05362",
+                "Polypeptide Name": "Intercellular adhesion molecule 1",
+                "Gene Name": "ICAM1",
+                "GenAtlas ID": "ICAM1",
+                "Chromosome": "19",
+                "Cellular Location": "Membrane"
+            }
+        ]
+    }
+]

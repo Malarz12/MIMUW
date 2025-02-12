@@ -1,0 +1,1602 @@
+[
+    {
+        "Drug Name":"Lepirudin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Cetuximab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Dornase alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Denileukin diftitox",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Etanercept",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Bivalirudin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Leuprolide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alteplase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Sermorelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-n1",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Darbepoetin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urokinase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Goserelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Reteplase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Erythropoietin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-n3",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegfilgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Sargramostim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Asparaginase Escherichia coli",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Antihemophilic factor, human recombinant",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anakinra",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gramicidin D",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Human immunoglobulin G",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anistreplase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Insulin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tenecteplase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Menotropins",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon gamma-1b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation factor VIIa Recombinant Human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Oprelvekin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Palifermin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Glucagon",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Aldesleukin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type B",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Omalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lyme disease vaccine (recombinant OspA)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin lispro",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin glargine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Collagenase clostridium histolyticum",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Rasburicase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cetrorelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Adalimumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Somatotropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abciximab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Drotrecogin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gemtuzumab ozogamicin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Indium In-111 satumomab pendetide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alpha-1-proteinase inhibitor",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegaspargase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegademase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Albumin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Eptifibatide",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Infliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Follitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Vasopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfacon-1",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Hyaluronidase (ovine)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Trastuzumab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Rituximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Muromonab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Digoxin Immune Fab (Ovine)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Ibritumomab tiuxetan",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Daptomycin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tositumomab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegvisomant",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pancrelipase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Streptokinase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Alemtuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Capromab pendetide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Laronidase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cyclosporine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alefacept",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Felypressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urofollitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Efalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Choriogonadotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Antithymocyte immunoglobulin (rabbit)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Filgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation Factor IX (Recombinant)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Becaplermin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Agalsidase beta",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Octreotide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Oxytocin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Natalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gramicidin D",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Rasburicase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Laronidase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tenecteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Choriogonadotropin alfa",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Streptokinase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation factor VIIa Recombinant Human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Felypressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Digoxin Immune Fab (Ovine)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alpha-1-proteinase inhibitor",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cetuximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Infliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Sermorelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Aldesleukin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Agalsidase beta",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Daptomycin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegaspargase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Menotropins",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Human immunoglobulin G",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Laronidase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urofollitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegademase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alglucerase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Laronidase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Rasburicase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tositumomab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cetrorelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Asparaginase Escherichia coli",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Oxytocin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Oxytocin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Bivalirudin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Antithymocyte immunoglobulin (rabbit)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lepirudin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pancrelipase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Interferon alfa-n3",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Aldesleukin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Tenecteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Dornase alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation Factor IX (Recombinant)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Indium In-111 satumomab pendetide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Efalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Streptokinase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Filgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegvisomant",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Indium In-111 satumomab pendetide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Muromonab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Palifermin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Vasopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anistreplase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Insulin glargine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegademase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tositumomab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Filgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin lispro",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Antithymocyte immunoglobulin (rabbit)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Muromonab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Abciximab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Antithymocyte immunoglobulin (rabbit)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alpha-1-proteinase inhibitor",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Pegaspargase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Octreotide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Goserelin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Erythropoietin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegfilgrastim",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Filgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-n1",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urofollitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Rituximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Octreotide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Palifermin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alemtuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Bivalirudin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Ibritumomab tiuxetan",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cyclosporine",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Salmon calcitonin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gramicidin D",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Aldesleukin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Interferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Vasopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Octreotide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Eptifibatide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Darbepoetin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Erythropoietin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pancrelipase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gemtuzumab ozogamicin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Omalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Daptomycin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Omalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Becaplermin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Omalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegaspargase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anakinra",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Indium In-111 satumomab pendetide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Erythropoietin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urokinase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin glargine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin glargine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Albumin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Darbepoetin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gramicidin D",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Oprelvekin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation Factor IX (Recombinant)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Palifermin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Rasburicase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Muromonab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Aldesleukin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lyme disease vaccine (recombinant OspA)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Daptomycin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alemtuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Capromab pendetide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Oprelvekin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegvisomant",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-n3",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Antihemophilic factor, human recombinant",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Leuprolide",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Cetrorelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Natalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon gamma-1b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cetuximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegademase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Goserelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Menotropins",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Reteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Darbepoetin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2a",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Trastuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-n3",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alpha-1-proteinase inhibitor",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Streptokinase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Collagenase clostridium histolyticum",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cyclosporine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Trastuzumab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Anakinra",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Trastuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Eptifibatide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Interferon alfacon-1",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gramicidin D",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegfilgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urofollitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Natalizumab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Filgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Sermorelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Albumin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Antihemophilic factor, human recombinant",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Erythropoietin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Gramicidin D",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfacon-1",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Insulin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lyme disease vaccine (recombinant OspA)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Follitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Alefacept",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Urofollitropin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Infliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Reteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Darbepoetin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Eptifibatide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Daptomycin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Ibritumomab tiuxetan",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin pork",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Drotrecogin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation Factor IX (Recombinant)",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cetuximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Agalsidase beta",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Bivalirudin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alemtuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alemtuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Collagenase clostridium histolyticum",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegaspargase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cyclosporine",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lepirudin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Goserelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-n3",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Follitropin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Darbepoetin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Filgrastim",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon beta-1a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Denileukin diftitox",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Natalizumab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Botulinum toxin type A",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Laronidase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Menotropins",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation Factor IX (Recombinant)",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Interferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anakinra",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Leuprolide",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Basiliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abarelix",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Streptokinase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Sermorelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Oprelvekin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Menotropins",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tositumomab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Denileukin diftitox",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Daptomycin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Desmopressin",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Thyrotropin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lepirudin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Cetuximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anistreplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Human immunoglobulin G",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Adalimumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Drotrecogin alfa",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2b",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Pegfilgrastim",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Infliximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Coagulation factor VIIa Recombinant Human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Omalizumab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Alefacept",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Albumin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2a",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Pegvisomant",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Botulinum toxin type B",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Rituximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Interferon alfa-2b",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Trastuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Insulin human",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tositumomab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Sermorelin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Abciximab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Alemtuzumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Becaplermin",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Anistreplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Reteplase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Imiglucerase",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Tenecteplase",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Omalizumab",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Peginterferon alfa-2b",
+        "Number of Pathways":0
+    },
+    {
+        "Drug Name":"Efalizumab",
+        "Number of Pathways":1
+    },
+    {
+        "Drug Name":"Lutropin alfa",
+        "Number of Pathways":0
+    }
+]
